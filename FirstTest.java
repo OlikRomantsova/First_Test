@@ -3,12 +3,12 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class FirstTest extends WebDriverSettings
+public class FirstTest extends WebDriverSettings  //ЗМIНИ
 {
     @Test
     public void firstTest()
     {
-        driver.get("https://loveandlive.ua/");
+        driver.get("https://rozetka.com.ua/");
         WebElement pageLogo = null;
         try
         {
