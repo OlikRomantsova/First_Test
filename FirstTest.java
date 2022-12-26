@@ -3,7 +3,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class FirstTest extends WebDriverSettings  //ЗМIНИ
+public class FirstTest extends WebDriverSettings  //ЗМIНИ 123
 {
     @Test
     public void firstTest()
