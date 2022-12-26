@@ -28,7 +28,7 @@ public class FirstTest extends WebDriverSettings
         }
         catch (Exception e)
         {
-            System.out.println("Page isn't opened");
+            System.out.println("Page isn't opened");// TODO Check this!!!
         }
     }
 }
