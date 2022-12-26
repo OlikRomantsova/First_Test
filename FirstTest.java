@@ -20,7 +20,7 @@ public class FirstTest extends WebDriverSettings
         }
         if(pageLogo.isDisplayed())
         {
-            System.out.println("Страница найдена");
+            System.out.println("Страница не найдена2");
         }
         try
         {
